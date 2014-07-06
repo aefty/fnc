@@ -1,0 +1,24 @@
+{
+  "name": "fnc",
+  "version": "0.0.0",
+  "description": "Load Nodejs modules loader",
+  "main": "fnc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aefty/fnc.git"
+  },
+  "keywords": [
+    "module",
+    "loader",
+    "require"
+  ],
+  "author": "Aryan Eftekhari <aryan.eftekhari@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aefty/fnc/issues"
+  },
+  "homepage": "https://github.com/aefty/fnc"
+}
