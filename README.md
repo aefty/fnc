@@ -1,4 +1,4 @@
 fnc
 ===
 
-Load Nodejs modules loader.
+Nodejs modules loader.
