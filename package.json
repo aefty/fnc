@@ -1,6 +1,6 @@
 {
   "name": "fnc",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "Load Nodejs modules loader",
   "main": "./lib/fnc.js",
   "scripts": {
